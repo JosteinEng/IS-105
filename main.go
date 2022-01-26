@@ -1,10 +1,12 @@
 package main
 
 import (
-	"fmt"
-	"github.com/josteineng/IS-105/quote"
+	"github.com/josteineng/myquote"
 )
 
 func main() {
-	fmt.Println(quote.TestQuote())
+	myquote.Glass()
+	myquote.Go()
+	myquote.Hello()
+	myquote.Opt()
 }
