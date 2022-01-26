@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(myquote.TestQuote())
+	fmt.Println(myquote.TestQuote1())
 }
