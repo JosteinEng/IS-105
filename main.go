@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/JosteinEng/IS-105/myquote"
+	"github.com/josteineng/myquote"
 )
 
 func main() {
